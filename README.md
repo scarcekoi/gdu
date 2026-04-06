@@ -37,7 +37,7 @@
 ## Usage
 
 1. Download the flavor and accent combination of your choice from [themes](themes).
-2. Open the config file. If you see anything like following code snippet in the config, replace it with the code in the downloaded file:
+2. Open the config file (located at `~/.config/gdu/gdu.yaml`). If you see anything like following code snippet in the config, replace it with the code in the downloaded file:
 ```yaml
 style:
   footer:
