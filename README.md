@@ -37,8 +37,7 @@
 ## Usage
 
 1. Download the flavor and accent combination of your choice from [themes](themes).
-2. Make sure the config file exists by running `touch ~/.config/gdu/gdu.yaml`.
-3. Open the config file. If you see anything like following code snippet in the config, replace it with the code in the downloaded file:
+2. Open the config file. If you see anything like following code snippet in the config, replace it with the code in the downloaded file:
 ```yaml
 style:
   footer:
@@ -55,8 +54,8 @@ style:
     text-color: '#000000'
     background-color: '#2479D0'
 ```
-4. If the config file is empty, paste the contents of the downloaded file directly into it.
-5. Enjoy!
+3. If the config file is empty, paste the contents of the downloaded file directly into it.
+4. Enjoy!
 
 ## 💝 Thanks to
 
